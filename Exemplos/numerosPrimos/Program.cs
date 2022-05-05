@@ -1,28 +1,53 @@
 ﻿using System;
 
-namespace numerosPrimos
+namespace ObterNumeroPrimo
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            /*escrever um programa
-             * que vai ler um numero inteiro
-             * e o programa vai dizer se o 
-             * numero lido é um numero primo
-             */
+            bool primo = true;
 
-            
-            int primo;
+            // vamos solicitar um número inteiro positivo
+            Console.Write("Informe um número inteiro positivo: ");
+            int numero = int.Parse(Console.ReadLine());
 
-            primo = 0;
+            // o número é negativo?
+            if (numero < 0)
+            {
+                Console.WriteLine("Número inválido.");
+            }
+            // é 0 ou 1?
+            else if ((numero == 0) || (numero == 1))
+            {
+                Console.WriteLine("Número válido, mas não é primo.");
+            }
+            // passou até aqui. Vamos testar se o número é primo
+            else
+            {
+                for (int i = 2; i <= (numero / 2); i++)
+                {
+                    // se passar no teste, não é primo
+                    if (numero % i == 0)
+                    {
+                        primo = false; // recebe false
+                        break;
+                    }
+                }
 
+                if (primo)
+                {
+                    Console.WriteLine("O número informado é primo");
+                }
+                else
+                {
+                    Console.WriteLine("O número informado não é primo");
+                }
+            }
 
-            Console.WriteLine("Informe um numero inteiro");
-            Double
-               
-
-
+            Console.WriteLine("\n\nPressione qualquer tecla para sair...");
+            // pausa o programa
+            Console.ReadKey();
         }
     }
 }
