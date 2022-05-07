@@ -6,7 +6,7 @@ namespace _1060
     {
         static void Main(string[] args)
         {
-            double num, media, total = 0;
+            double num, media = 0, total = 0;
             int positivo = 0;
 
 
@@ -15,17 +15,25 @@ namespace _1060
                 Double.TryParse(Console.ReadLine(), out num);
                 if (num > 0)
                 {
-                    positivo++;   // positivo = positivo + 1;
+                   
                     positivo = positivo + 1;
                     total = total + num;
-                }
-               
+                    media = total / positivo;
 
+                }
+
+                
             }
 
+           
             Console.WriteLine(positivo + " valores positivos");
+            Console.WriteLine(media.ToString("F1"));
            
-           
+            
+
+
+
+
         }
     }
 }

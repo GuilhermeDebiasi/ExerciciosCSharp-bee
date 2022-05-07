@@ -1,0 +1,16 @@
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\funções\bin\Debug\net5.0\funções.exe
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\funções\bin\Debug\net5.0\funções.deps.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\funções\bin\Debug\net5.0\funções.runtimeconfig.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\funções\bin\Debug\net5.0\funções.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\funções\bin\Debug\net5.0\funções.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\funções\bin\Debug\net5.0\funções.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\funções\obj\Debug\net5.0\funções.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\funções\obj\Debug\net5.0\funções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\funções\obj\Debug\net5.0\funções.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\funções\obj\Debug\net5.0\funções.AssemblyInfo.cs
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\funções\obj\Debug\net5.0\funções.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\funções\obj\Debug\net5.0\funções.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\funções\obj\Debug\net5.0\refint\funções.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\funções\obj\Debug\net5.0\funções.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\funções\obj\Debug\net5.0\funções.genruntimeconfig.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\funções\obj\Debug\net5.0\ref\funções.dll
