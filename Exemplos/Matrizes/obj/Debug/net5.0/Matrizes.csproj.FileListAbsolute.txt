@@ -1,0 +1,16 @@
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\Matrizes\bin\Debug\net5.0\Matrizes.exe
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\Matrizes\bin\Debug\net5.0\Matrizes.deps.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\Matrizes\bin\Debug\net5.0\Matrizes.runtimeconfig.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\Matrizes\bin\Debug\net5.0\Matrizes.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\Matrizes\bin\Debug\net5.0\Matrizes.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\Matrizes\bin\Debug\net5.0\Matrizes.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\Matrizes\obj\Debug\net5.0\Matrizes.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\Matrizes\obj\Debug\net5.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\Matrizes\obj\Debug\net5.0\Matrizes.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\Matrizes\obj\Debug\net5.0\Matrizes.AssemblyInfo.cs
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\Matrizes\obj\Debug\net5.0\Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\Matrizes\obj\Debug\net5.0\Matrizes.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\Matrizes\obj\Debug\net5.0\refint\Matrizes.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\Matrizes\obj\Debug\net5.0\Matrizes.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\Matrizes\obj\Debug\net5.0\Matrizes.genruntimeconfig.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\Matrizes\obj\Debug\net5.0\ref\Matrizes.dll

@@ -14,3 +14,19 @@ C:\Users\guest03\source\repos\Exemplos\contador\obj\Debug\net5.0\refint\contador
 C:\Users\guest03\source\repos\Exemplos\contador\obj\Debug\net5.0\contador.pdb
 C:\Users\guest03\source\repos\Exemplos\contador\obj\Debug\net5.0\contador.genruntimeconfig.cache
 C:\Users\guest03\source\repos\Exemplos\contador\obj\Debug\net5.0\ref\contador.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\contador\bin\Debug\net5.0\contador.exe
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\contador\bin\Debug\net5.0\contador.deps.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\contador\bin\Debug\net5.0\contador.runtimeconfig.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\contador\bin\Debug\net5.0\contador.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\contador\bin\Debug\net5.0\contador.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\contador\bin\Debug\net5.0\contador.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\contador\obj\Debug\net5.0\contador.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\contador\obj\Debug\net5.0\contador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\contador\obj\Debug\net5.0\contador.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\contador\obj\Debug\net5.0\contador.AssemblyInfo.cs
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\contador\obj\Debug\net5.0\contador.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\contador\obj\Debug\net5.0\contador.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\contador\obj\Debug\net5.0\refint\contador.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\contador\obj\Debug\net5.0\contador.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\contador\obj\Debug\net5.0\contador.genruntimeconfig.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\contador\obj\Debug\net5.0\ref\contador.dll

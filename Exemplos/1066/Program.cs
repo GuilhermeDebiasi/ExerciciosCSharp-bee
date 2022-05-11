@@ -36,10 +36,10 @@ namespace _1066
 
 
             } 
-                Console.WriteLine(par + " valo(es) par(es)");
+                Console.WriteLine(par + " valor(es) par(es)");
                 Console.WriteLine(impar + " valor(es) impar(es)");
-                Console.WriteLine(pos + "valor(es) par(es)");
-                Console.WriteLine(neg + " valor(es) negativos");
+                Console.WriteLine(pos + " valor(es) positivo(s)");
+                Console.WriteLine(neg + " valor(es) negativo(s)");
            
                 
                       
