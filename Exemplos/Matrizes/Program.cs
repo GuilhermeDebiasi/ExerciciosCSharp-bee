@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Matrizes
+namespace CampoMinado
 {
     internal class Program
     {
@@ -37,7 +37,7 @@ namespace Matrizes
                 if (checarGanhador == false)
                 {
                     checarEmpate = ChecarEmpate();
-                    if(checarEmpate == true)
+                    if (checarEmpate == true)
                     {
                         Console.WriteLine("Houve empate!");
                         continuarJogando = false;
@@ -49,6 +49,7 @@ namespace Matrizes
                     continuarJogando = false;
                 }
 
+
                 // alterar quem joga
                 if(quemJoga == 1)
                 {
@@ -57,8 +58,11 @@ namespace Matrizes
                 {
                     quemJoga = 1;
                 }
+              
 
-                
+
+
+
             }
             ImprimirTabuleiro();
         }

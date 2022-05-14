@@ -6,16 +6,16 @@ namespace _1067
     {
         static void Main(string[] args)
         {
-            double num;
-            Double.TryParse(Console.ReadLine(), out num);
+            int num;
+            int.TryParse(Console.ReadLine(), out num);
 
-            for (num = 0; num <= 50; num++)
+            for (int i = 1; i <= num; i++)
             {
                 
 
-                if (num % 2 == 1)
+                if (i % 2 == 1)
                 {
-                    Console.WriteLine(num);
+                    Console.WriteLine(i);
                 }
 
 

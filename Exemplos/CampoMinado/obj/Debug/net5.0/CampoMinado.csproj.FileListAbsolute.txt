@@ -1,0 +1,16 @@
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\bin\Debug\net5.0\CampoMinado.exe
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\bin\Debug\net5.0\CampoMinado.deps.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\bin\Debug\net5.0\CampoMinado.runtimeconfig.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\bin\Debug\net5.0\CampoMinado.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\bin\Debug\net5.0\CampoMinado.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\bin\Debug\net5.0\CampoMinado.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\CampoMinado.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\CampoMinado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\CampoMinado.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\CampoMinado.AssemblyInfo.cs
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\CampoMinado.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\CampoMinado.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\refint\CampoMinado.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\CampoMinado.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\CampoMinado.genruntimeconfig.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\ref\CampoMinado.dll
