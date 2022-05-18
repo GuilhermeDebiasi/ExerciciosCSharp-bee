@@ -1,0 +1,16 @@
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\bin\Debug\net5.0\1173.exe
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\bin\Debug\net5.0\1173.deps.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\bin\Debug\net5.0\1173.runtimeconfig.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\bin\Debug\net5.0\1173.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\bin\Debug\net5.0\1173.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\bin\Debug\net5.0\1173.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\1173.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\1173.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\1173.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\1173.AssemblyInfo.cs
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\1173.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\1173.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\refint\1173.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\1173.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\1173.genruntimeconfig.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\CampoMinado\obj\Debug\net5.0\ref\1173.dll

@@ -1,0 +1,16 @@
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1914\obj\Debug\net5.0\1914.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1914\obj\Debug\net5.0\1914.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1914\obj\Debug\net5.0\1914.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1914\obj\Debug\net5.0\1914.AssemblyInfo.cs
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1914\obj\Debug\net5.0\1914.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1914\bin\Debug\net5.0\1914.exe
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1914\bin\Debug\net5.0\1914.deps.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1914\bin\Debug\net5.0\1914.runtimeconfig.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1914\bin\Debug\net5.0\1914.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1914\bin\Debug\net5.0\1914.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1914\bin\Debug\net5.0\1914.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1914\obj\Debug\net5.0\1914.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1914\obj\Debug\net5.0\refint\1914.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1914\obj\Debug\net5.0\1914.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1914\obj\Debug\net5.0\1914.genruntimeconfig.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1914\obj\Debug\net5.0\ref\1914.dll
