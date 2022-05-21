@@ -1,0 +1,16 @@
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1168\bin\Debug\net5.0\1168.exe
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1168\bin\Debug\net5.0\1168.deps.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1168\bin\Debug\net5.0\1168.runtimeconfig.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1168\bin\Debug\net5.0\1168.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1168\bin\Debug\net5.0\1168.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1168\bin\Debug\net5.0\1168.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1168\obj\Debug\net5.0\1168.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1168\obj\Debug\net5.0\1168.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1168\obj\Debug\net5.0\1168.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1168\obj\Debug\net5.0\1168.AssemblyInfo.cs
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1168\obj\Debug\net5.0\1168.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1168\obj\Debug\net5.0\1168.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1168\obj\Debug\net5.0\refint\1168.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1168\obj\Debug\net5.0\1168.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1168\obj\Debug\net5.0\1168.genruntimeconfig.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\Exemplos\1168\obj\Debug\net5.0\ref\1168.dll

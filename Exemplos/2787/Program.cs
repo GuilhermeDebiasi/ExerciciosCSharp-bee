@@ -1,10 +1,8 @@
 ﻿using System;
 
-
-
 namespace _2787
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {

@@ -8,50 +8,74 @@ namespace _1435
         {
             int tamanho = int.Parse(Console.ReadLine());
 
-            while (tamanho != 0)
+            int N, up, down, left, right, add, mid;
+            int[,] M;
+
+            N = 1;
+            while (N != 0)
             {
-                int[,] matriz = new int[tamanho, tamanho];
-                for (int i = 0; i < tamanho; i++)
+                
+                M = new int[N, N];
+                add = 1;
+                up = 0;
+                down = N - 1;
+                left = 0;
+                right = N - 1;
+
+                if (N % 2 == 0)
                 {
-                    for (int j = i; j < (tamanho - i); j++)
-                    {
-                        matriz[i, j] = i + 1;
-                        matriz[tamanho - 1 - i, j] = i + 1;
-                    }
+                    mid = N / 2;
+                }
+                else
+                {
+                    mid = (N + 1) / 2;
                 }
 
-
-                for (int i = 0; i < tamanho; i++)
+                while (add <= mid)
                 {
-                    for (int j = 0; j < tamanho; j++)
+                    for (int i = left; i <= right; i++)
                     {
+                        M[up, i] = add;
+                        M[down, i] = add;
+                    }
+                    for (int i = (up + 1); i < down; i++)
+                    {
+                        M[i, left] = add;
+                        M[i, right] = add;
+                    }
+                    add++;
+                    up++;
+                    left++;
+                    right--;
+                    down--;
+                }
 
-                        string temp = matriz[i, j].ToString();
-                        if (temp.Length == 1)
+                for (int i = 0; i < N; i++)
+                {
+                    for (int j = 0; j < N; j++)
+                    {
+                        if (j == 0)
                         {
-                            temp = "  " + temp;
+                            Console.Write($"  {M[i, j]}");
+                        }
+                        else if (M[i, j] > 9)
+                        {
+                            Console.Write($"  {M[i, j]}");
                         }
                         else
                         {
-                            if (temp.Length == 2)
-                            {
-                                temp = " " + temp;
-                            }
+                            Console.Write($"   {M[i, j]}");
                         }
-                        if (j == tamanho - 1)
-                        {
-                            Console.WriteLine(temp);
-                        }
-                        else
-                        {
-                            Console.Write(temp + " ");
-                        }
-
-
                     }
+                    Console.WriteLine();
                 }
-            } 
+                Console.WriteLine();
+                N = int.Parse(Console.ReadLine());
+            }
         }
     }
 }
+        
+    
+
 
