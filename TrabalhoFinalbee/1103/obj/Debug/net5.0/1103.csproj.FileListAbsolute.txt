@@ -1,0 +1,16 @@
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1103\bin\Debug\net5.0\1103.exe
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1103\bin\Debug\net5.0\1103.deps.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1103\bin\Debug\net5.0\1103.runtimeconfig.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1103\bin\Debug\net5.0\1103.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1103\bin\Debug\net5.0\1103.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1103\bin\Debug\net5.0\1103.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1103\obj\Debug\net5.0\1103.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1103\obj\Debug\net5.0\1103.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1103\obj\Debug\net5.0\1103.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1103\obj\Debug\net5.0\1103.AssemblyInfo.cs
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1103\obj\Debug\net5.0\1103.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1103\obj\Debug\net5.0\1103.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1103\obj\Debug\net5.0\refint\1103.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1103\obj\Debug\net5.0\1103.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1103\obj\Debug\net5.0\1103.genruntimeconfig.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1103\obj\Debug\net5.0\ref\1103.dll

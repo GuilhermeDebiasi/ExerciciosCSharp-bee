@@ -1,0 +1,16 @@
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1140\bin\Debug\net5.0\1140.exe
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1140\bin\Debug\net5.0\1140.deps.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1140\bin\Debug\net5.0\1140.runtimeconfig.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1140\bin\Debug\net5.0\1140.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1140\bin\Debug\net5.0\1140.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1140\bin\Debug\net5.0\1140.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1140\obj\Debug\net5.0\1140.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1140\obj\Debug\net5.0\1140.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1140\obj\Debug\net5.0\1140.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1140\obj\Debug\net5.0\1140.AssemblyInfo.cs
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1140\obj\Debug\net5.0\1140.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1140\obj\Debug\net5.0\1140.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1140\obj\Debug\net5.0\refint\1140.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1140\obj\Debug\net5.0\1140.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1140\obj\Debug\net5.0\1140.genruntimeconfig.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\1140\obj\Debug\net5.0\ref\1140.dll
