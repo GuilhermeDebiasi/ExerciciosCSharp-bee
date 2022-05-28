@@ -8,19 +8,6 @@ namespace _1140
         { 
 
 
-            string entrada = "";
-
-            while (true)
-            {
-                entrada = Console.ReadLine();
-                if (entrada == "*")
-                    break;
-
-                if()
-
-
-            }
-
         
         
         
