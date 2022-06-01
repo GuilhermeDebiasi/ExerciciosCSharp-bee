@@ -1,0 +1,16 @@
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\frota\bin\Debug\net5.0\frota.exe
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\frota\bin\Debug\net5.0\frota.deps.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\frota\bin\Debug\net5.0\frota.runtimeconfig.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\frota\bin\Debug\net5.0\frota.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\frota\bin\Debug\net5.0\frota.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\frota\bin\Debug\net5.0\frota.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\frota\obj\Debug\net5.0\frota.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\frota\obj\Debug\net5.0\frota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\frota\obj\Debug\net5.0\frota.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\frota\obj\Debug\net5.0\frota.AssemblyInfo.cs
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\frota\obj\Debug\net5.0\frota.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\frota\obj\Debug\net5.0\frota.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\frota\obj\Debug\net5.0\refint\frota.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\frota\obj\Debug\net5.0\frota.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\frota\obj\Debug\net5.0\frota.genruntimeconfig.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\frota\obj\Debug\net5.0\ref\frota.dll

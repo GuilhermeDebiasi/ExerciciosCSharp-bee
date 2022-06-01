@@ -4,16 +4,16 @@ namespace classe
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
+
+
             // Aqui cria as pessoas sem utilizar as classes
             CriarPessoasSemClasse();
 
             // Aqui crias as pessoas utilizando classe
             CriarPessoasComClasse();
-
-            
-
 
             Console.ReadKey();
         }
@@ -24,9 +24,12 @@ namespace classe
             Pessoa pessoaUm = new Pessoa();
 
             // Atribuindo os valores para os atributos da pessoa um
+
             pessoaUm.nome = "Leonardo";
             pessoaUm.sobrenome = "Silva";
             pessoaUm.idade = 28;
+
+            // Chamando o método para exibir a faixa de idade da pessoa um
             pessoaUm.ExibirFaixaIdade();
             
                 // Chamando o método para exibir o nome completo da pessoa um
@@ -39,6 +42,7 @@ namespace classe
             pessoaDois.nome = "José";
             pessoaDois.sobrenome = "Machado";
 
+            // Chamando o método para exibir a faixa de idade da pessoa dois
             pessoaDois.ExibirFaixaIdade();
             // Chamando o método para exibir o nome completo da pessoa dois
             pessoaDois.ExibirNomeCompleto();
