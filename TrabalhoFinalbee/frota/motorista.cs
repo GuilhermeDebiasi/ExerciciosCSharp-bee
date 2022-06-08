@@ -1,18 +1,17 @@
 ﻿using System;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace frota
 {
-    public class motorista
+    public class Motorista
     {
 
         public string nome, sobrenome, cnh;
 
-        public string ObterNomeCompleto(string nome, string sobrenome)
+        public string ObterNomeCompleto()
         {
-            return nome + sobrenome;
+            nome = "";
+            return $"{nome} {sobrenome}";
         }
 
     }
@@ -24,4 +23,4 @@ namespace frota
 
     
 
-}
+}    

@@ -1,0 +1,16 @@
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Encapsulamento\bin\Debug\net5.0\Encapsulamento.exe
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Encapsulamento\bin\Debug\net5.0\Encapsulamento.deps.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Encapsulamento\bin\Debug\net5.0\Encapsulamento.runtimeconfig.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Encapsulamento\bin\Debug\net5.0\Encapsulamento.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Encapsulamento\bin\Debug\net5.0\Encapsulamento.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Encapsulamento\bin\Debug\net5.0\Encapsulamento.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Encapsulamento\obj\Debug\net5.0\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Encapsulamento\obj\Debug\net5.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Encapsulamento\obj\Debug\net5.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Encapsulamento\obj\Debug\net5.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Encapsulamento\obj\Debug\net5.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Encapsulamento\obj\Debug\net5.0\Encapsulamento.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Encapsulamento\obj\Debug\net5.0\refint\Encapsulamento.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Encapsulamento\obj\Debug\net5.0\Encapsulamento.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Encapsulamento\obj\Debug\net5.0\Encapsulamento.genruntimeconfig.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Encapsulamento\obj\Debug\net5.0\ref\Encapsulamento.dll

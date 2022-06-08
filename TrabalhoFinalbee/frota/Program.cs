@@ -6,31 +6,42 @@ namespace frota
     {
         static void Main(string[] args)
         {
-            motorista motora = new motorista();
+            Motorista motorista = new Motorista();
+           
+            Console.WriteLine(motorista.ObterNomeCompleto());
+           
+            Veiculo veiculo = CriarVeiculo(null);
 
-            Console.WriteLine("Digite sua CNH:");
-            motora.cnh = Console.ReadLine();
-            Console.WriteLine("Digite seu nome: ");
-            motora.nome = Console.ReadLine();
-            Console.WriteLine("Digite seu Sobrenome");
-            motora.sobrenome = Console.ReadLine();
+            Console.WriteLine(veiculo.ObterDescricao());
             
-                
+           
 
-            motora.ObterNomeCompleto(motora.nome, motora.sobrenome);
-
-            veiculo veiculo = new veiculo();
-
-            Console.WriteLine("Digita sua placa:");
-            veiculo.placa = Console.ReadLine();
-            Console.WriteLine("Digita o modelo:");
-            veiculo.modelo = Console.ReadLine();
-            Console.WriteLine("Digita a marca do seu veiculo:");
-            veiculo.marca = Console.ReadLine();
-
-            Console.WriteLine(veiculo.ObterDescricao(veiculo.placa, veiculo.modelo));
-
-            Console.ReadKey();
         }
+        static Motorista CriarMotorista()
+        {
+         
+            Motorista motorista = new Motorista();
+
+            motorista.nome = "João";
+            motorista.sobrenome = "Carlos";
+            motorista.cnh = "123456";
+
+            return motorista;
+        }
+         
+        static Veiculo CriarVeiculo(Motorista motorista)
+        {
+          
+            Veiculo veiculo = new Veiculo();
+            
+            veiculo.modelo = "Polo";
+            veiculo.placa = "AAA9999";
+            veiculo.proprietario = motorista;
+
+            return veiculo;
+        }
+    
     }
+
+
 }

@@ -1,23 +1,33 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace frota
 {
-    internal class veiculo
+    public class Veiculo
     {
         public string placa, marca, modelo;
+        public Motorista proprietario;
 
-        public string ObterDescricao(string placa, string modelo)
+        public string ObterDescricao()
         {
 
-            return modelo + "(" + placa + ")";
+            return $"{modelo} ({placa})";
+
         }
+        public static ObterNomeProprietario()
+        {
+            if (proprietario != null)
+                return proprietario.ObterNomeCompleto();
+
+            return string.Empty;
+        }
+
+
+
     }
+}
    
     
        
-    }
+    
 
