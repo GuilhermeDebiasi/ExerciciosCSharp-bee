@@ -73,7 +73,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classe", "OrientaçãoObjet
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "frota", "frota\frota.csproj", "{25CCE880-31EC-4B5E-B6DC-C94F681043B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamento", "Encapsulamento\Encapsulamento.csproj", "{F3D13C52-7029-41A2-95F6-E57EB2E36662}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulamento", "Encapsulamento\Encapsulamento.csproj", "{F3D13C52-7029-41A2-95F6-E57EB2E36662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteOrientacoesObjeto", "TesteOrientacoesObjeto\TesteOrientacoesObjeto.csproj", "{6AC4436A-D5C7-41F4-8B5B-65A6445CCAA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +227,10 @@ Global
 		{F3D13C52-7029-41A2-95F6-E57EB2E36662}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3D13C52-7029-41A2-95F6-E57EB2E36662}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3D13C52-7029-41A2-95F6-E57EB2E36662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC4436A-D5C7-41F4-8B5B-65A6445CCAA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC4436A-D5C7-41F4-8B5B-65A6445CCAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC4436A-D5C7-41F4-8B5B-65A6445CCAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC4436A-D5C7-41F4-8B5B-65A6445CCAA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
