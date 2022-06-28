@@ -1,0 +1,16 @@
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Heranca\bin\Debug\net5.0\Heranças.exe
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Heranca\bin\Debug\net5.0\Heranças.deps.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Heranca\bin\Debug\net5.0\Heranças.runtimeconfig.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Heranca\bin\Debug\net5.0\Heranças.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Heranca\bin\Debug\net5.0\Heranças.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Heranca\bin\Debug\net5.0\Heranças.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Heranca\obj\Debug\net5.0\Heranças.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Heranca\obj\Debug\net5.0\Heranças.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Heranca\obj\Debug\net5.0\Heranças.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Heranca\obj\Debug\net5.0\Heranças.AssemblyInfo.cs
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Heranca\obj\Debug\net5.0\Heranças.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Heranca\obj\Debug\net5.0\Heranças.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Heranca\obj\Debug\net5.0\refint\Heranças.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Heranca\obj\Debug\net5.0\Heranças.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Heranca\obj\Debug\net5.0\Heranças.genruntimeconfig.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\Heranca\obj\Debug\net5.0\ref\Heranças.dll

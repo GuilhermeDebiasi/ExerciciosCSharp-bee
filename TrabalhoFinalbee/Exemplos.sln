@@ -75,7 +75,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "frota", "frota\frota.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulamento", "Encapsulamento\Encapsulamento.csproj", "{F3D13C52-7029-41A2-95F6-E57EB2E36662}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteOrientacoesObjeto", "TesteOrientacoesObjeto\TesteOrientacoesObjeto.csproj", "{6AC4436A-D5C7-41F4-8B5B-65A6445CCAA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteOrientacoesObjeto", "TesteOrientacoesObjeto\TesteOrientacoesObjeto.csproj", "{6AC4436A-D5C7-41F4-8B5B-65A6445CCAA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranças", "Heranca\Heranças.csproj", "{30A0F66B-90A8-40E9-82C1-92CA27B58934}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -231,6 +233,10 @@ Global
 		{6AC4436A-D5C7-41F4-8B5B-65A6445CCAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AC4436A-D5C7-41F4-8B5B-65A6445CCAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AC4436A-D5C7-41F4-8B5B-65A6445CCAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A0F66B-90A8-40E9-82C1-92CA27B58934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A0F66B-90A8-40E9-82C1-92CA27B58934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A0F66B-90A8-40E9-82C1-92CA27B58934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A0F66B-90A8-40E9-82C1-92CA27B58934}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

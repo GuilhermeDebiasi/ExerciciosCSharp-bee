@@ -5,11 +5,11 @@ namespace TesteOrientacoesObjeto
 {
     internal class veiculo
     {
-        public int VelocidadeAtual { get; set; }
+        public int VelocidadeAtual { get; private set; }
 
-        private bool VeiculoEstaLigado;
+        private bool VeiculoEstaLigado { get; private set; }
 
-        private void FrearCarro()
+        private void FreiarCarro()
         {
             VelocidadeAtual = 0;
         }
@@ -21,11 +21,11 @@ namespace TesteOrientacoesObjeto
         public void DesligarCarro()
         {
 
-            if (VelocidadeAtual == 0)
-            {
-                FrearCarro();
-                VeiculoEstaLigado = false;
-            }
+            if (VelocidadeAtual > 0)
+                 FreiarCarro();
+                
+            VeiculoEstaLigado = false;
+            
         }
         public bool TesteLigado()
         {
