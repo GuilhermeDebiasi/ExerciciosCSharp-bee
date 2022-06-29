@@ -7,6 +7,9 @@
 
         public decimal MediaNotas { get; set; }
 
-       
+       public Aluno()
+        {
+            System.Console.WriteLine("Construiu o Aluno");
+        }
     }
 }

@@ -1,19 +1,20 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Heranças
 {
-    internal class Pessoa
-    {
+    public abstract class Pessoa
+    { 
         public string Cpf { get; set; }
 
         public string Nome { get; set; }
 
         public string Sobrenome { get; set; }
 
+        public Pessoa()
+        {
+            System.Console.WriteLine("Construiu a Pessoa");
+        }
+            
         public virtual string ObterNomeCompleto()
         {
             return $"{Nome} {Sobrenome}";

@@ -1,18 +1,21 @@
 ﻿using System;
 
-namespace Heranças
+namespace Heranças  
 {
-    internal class Professor : Pessoa
+    internal class Professor : Funcionario
     {
         
-        public string NumeroFuncionario { get; set; }
+        public string Curso { get; set; }
 
-        public decimal Salario { get; set; }
+        
 
         public override string ObterNomeCompleto()
         {
-            return $"{NumeroFuncionario} - e{Nome} {Sobrenome}";
+            return $"{base.ObterNomeCompleto()}";
         }
-
+        public Professor(string numeroFuncionario) : base(numeroFuncionario)
+        {
+            System.Console.WriteLine("Construiu o Professor");
+        }
     }
 }

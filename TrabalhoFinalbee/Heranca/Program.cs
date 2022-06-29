@@ -5,19 +5,44 @@ namespace Heranças
     internal class Program
     {
         static void Main(string[] args)
-        {                         
-            Aluno aluno = CriarAluno();
-            Professor professor = CriarProfessor();
+        {
 
-            ExibirNomeCompleto(aluno);
-            ExibirNomeCompleto(professor);
+            int tipo;
+
+            Console.WriteLine("Tipos de Pessoa:");
+            Console.WriteLine();
+            Console.WriteLine("(1) Aluno");
+            Console.WriteLine("(2) Professor");
+            Console.WriteLine("(3) Diretor");
+            Console.WriteLine();
+            Console.WriteLine("Informe o Tipo:");
             
+            int.TryParse(Console.ReadLine(), out tipo);
+
+            Pessoa pessoa = CriarPessoa(tipo);
+            
+            ExibirNomeCompleto (pessoa);
+
             Console.ReadKey();
         }
 
         public static void ExibirNomeCompleto(Pessoa pessoa)
         {
             Console.WriteLine(pessoa.ObterNomeCompleto());
+        }
+
+        public static Pessoa CriarPessoa(int tipo)
+        {
+            if (tipo == 1)
+                return CriarAluno();
+
+            if (tipo == 2)
+                return CriarProfessor();
+
+            if (tipo == 3) 
+            return CriarDiretor();
+
+            return null;
         }
 
         public static Aluno CriarAluno()
@@ -34,13 +59,25 @@ namespace Heranças
 
         public static Professor CriarProfessor()
         {
-            return new Professor()
+            return new Professor("1234")
             {
                 Cpf = "222.222.222-22",
                 Nome = "Maria",
                 Sobrenome = "Rocha",
-                NumeroFuncionario = "1324",
-               Salario = 1000.50m
+                Salario = 1000.50m,
+                Curso = "Programação"
+            };
+        }
+
+        public static Diretor CriarDiretor()
+        {
+            return new Diretor("5678")
+            {
+                Cpf = "555.555.555-55",
+                Nome = "Mateus",
+                Sobrenome = "Vieira",
+                Salario = 2000.78m,
+                Area = "Exatas"
             };
         }
     }

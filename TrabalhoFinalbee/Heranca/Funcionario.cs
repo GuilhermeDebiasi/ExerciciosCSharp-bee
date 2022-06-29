@@ -1,12 +1,28 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;   
 
 namespace Heranças
 {
-    internal class Funcionario
+    internal class Funcionario : Pessoa
     {
+        public string NumeroFuncionario { get; set; }
+
+        public decimal Salario { get; set; }
+
+        public Funcionario()
+        {
+            
+            System.Console.WriteLine("Construiu o Funcionario");
+        }
+
+        public Funcionario(string numeroFuncionario)
+        {
+            NumeroFuncionario = numeroFuncionario;
+            System.Console.WriteLine("Construiu o Funcionario com Parâmetro");
+        }
+
+        public override string ObterNomeCompleto()
+        {
+            return $"{NumeroFuncionario} - {base.ObterNomeCompleto()}";
+        }
     }
 }
