@@ -77,7 +77,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulamento", "Encapsula
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteOrientacoesObjeto", "TesteOrientacoesObjeto\TesteOrientacoesObjeto.csproj", "{6AC4436A-D5C7-41F4-8B5B-65A6445CCAA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranças", "Heranca\Heranças.csproj", "{30A0F66B-90A8-40E9-82C1-92CA27B58934}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranças", "Heranca\Heranças.csproj", "{30A0F66B-90A8-40E9-82C1-92CA27B58934}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhoFinal", "TrabalhoFinal\TrabalhoFinal.csproj", "{3E7A73C1-811A-455C-9167-FB77701C125C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,6 +239,10 @@ Global
 		{30A0F66B-90A8-40E9-82C1-92CA27B58934}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30A0F66B-90A8-40E9-82C1-92CA27B58934}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30A0F66B-90A8-40E9-82C1-92CA27B58934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E7A73C1-811A-455C-9167-FB77701C125C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7A73C1-811A-455C-9167-FB77701C125C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7A73C1-811A-455C-9167-FB77701C125C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7A73C1-811A-455C-9167-FB77701C125C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

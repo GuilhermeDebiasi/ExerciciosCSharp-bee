@@ -1,0 +1,16 @@
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\bin\Debug\net5.0\TrabalhoFinal.exe
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\bin\Debug\net5.0\TrabalhoFinal.deps.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\bin\Debug\net5.0\TrabalhoFinal.runtimeconfig.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\bin\Debug\net5.0\TrabalhoFinal.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\bin\Debug\net5.0\TrabalhoFinal.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\bin\Debug\net5.0\TrabalhoFinal.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinal.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinal.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinal.AssemblyInfo.cs
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinal.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinal.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\refint\TrabalhoFinal.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinal.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinal.genruntimeconfig.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\ref\TrabalhoFinal.dll
