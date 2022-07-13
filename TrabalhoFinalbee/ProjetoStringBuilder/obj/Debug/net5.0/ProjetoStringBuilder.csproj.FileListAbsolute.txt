@@ -1,0 +1,16 @@
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\ProjetoStringBuilder\bin\Debug\net5.0\ProjetoStringBuilder.exe
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\ProjetoStringBuilder\bin\Debug\net5.0\ProjetoStringBuilder.deps.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\ProjetoStringBuilder\bin\Debug\net5.0\ProjetoStringBuilder.runtimeconfig.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\ProjetoStringBuilder\bin\Debug\net5.0\ProjetoStringBuilder.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\ProjetoStringBuilder\bin\Debug\net5.0\ProjetoStringBuilder.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\ProjetoStringBuilder\bin\Debug\net5.0\ProjetoStringBuilder.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\ProjetoStringBuilder\obj\Debug\net5.0\ProjetoStringBuilder.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\ProjetoStringBuilder\obj\Debug\net5.0\ProjetoStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\ProjetoStringBuilder\obj\Debug\net5.0\ProjetoStringBuilder.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\ProjetoStringBuilder\obj\Debug\net5.0\ProjetoStringBuilder.AssemblyInfo.cs
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\ProjetoStringBuilder\obj\Debug\net5.0\ProjetoStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\ProjetoStringBuilder\obj\Debug\net5.0\ProjetoStringBuilder.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\ProjetoStringBuilder\obj\Debug\net5.0\refint\ProjetoStringBuilder.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\ProjetoStringBuilder\obj\Debug\net5.0\ProjetoStringBuilder.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\ProjetoStringBuilder\obj\Debug\net5.0\ProjetoStringBuilder.genruntimeconfig.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\ProjetoStringBuilder\obj\Debug\net5.0\ref\ProjetoStringBuilder.dll

@@ -17,5 +17,9 @@ namespace Heranças
         {
             System.Console.WriteLine("Construiu o Professor");
         }
+        public string ObterProfissao()
+        {
+            return "Professor";
+        }
     }
 }

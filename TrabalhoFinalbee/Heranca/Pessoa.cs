@@ -19,6 +19,7 @@ namespace Heranças
         {
             return $"{Nome} {Sobrenome}";
         }
-
+        
+        public abstract string ObterProfissao();
     }
 }

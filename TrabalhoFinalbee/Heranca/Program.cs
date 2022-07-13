@@ -20,6 +20,9 @@ namespace Heranças
             int.TryParse(Console.ReadLine(), out tipo);
 
             Pessoa pessoa = CriarPessoa(tipo);
+            Ipessoa pessoaDois = CriarInterfacePessoa(tipo);
+
+            pessoaDois.ObterNomeComProfissao();
             
             ExibirNomeCompleto (pessoa);
 

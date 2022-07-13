@@ -11,5 +11,14 @@ namespace Heranças
            
             System.Console.WriteLine("Construiu o Diretor");
         }
+        public override string ObterProfissao()
+        {
+            return "Diretor";
+        }
+        public string ObterNomeComProfissao()
+        {
+            return $"{nome}";
+        }
     }
+
 }

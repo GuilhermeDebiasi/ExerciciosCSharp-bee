@@ -4,7 +4,7 @@ namespace Heranças
 {
     internal class Funcionario : Pessoa
     {
-        public string NumeroFuncionario { get; set; }
+        public string NumeroFuncionario { get; private set; }
 
         public decimal Salario { get; set; }
 
