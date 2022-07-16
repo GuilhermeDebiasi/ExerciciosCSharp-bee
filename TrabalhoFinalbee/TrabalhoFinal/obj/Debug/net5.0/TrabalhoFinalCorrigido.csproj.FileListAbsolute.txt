@@ -1,0 +1,16 @@
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\bin\Debug\net5.0\TrabalhoFinalCorrigido.exe
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\bin\Debug\net5.0\TrabalhoFinalCorrigido.deps.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\bin\Debug\net5.0\TrabalhoFinalCorrigido.runtimeconfig.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\bin\Debug\net5.0\TrabalhoFinalCorrigido.runtimeconfig.dev.json
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\bin\Debug\net5.0\TrabalhoFinalCorrigido.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\bin\Debug\net5.0\TrabalhoFinalCorrigido.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinalCorrigido.csproj.AssemblyReference.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinalCorrigido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinalCorrigido.AssemblyInfoInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinalCorrigido.AssemblyInfo.cs
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinalCorrigido.csproj.CoreCompileInputs.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinalCorrigido.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\refint\TrabalhoFinalCorrigido.dll
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinalCorrigido.pdb
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinalCorrigido.genruntimeconfig.cache
+C:\Users\guest03\Desktop\CSharp GITHUB\TrabalhoFinalbee\TrabalhoFinal\obj\Debug\net5.0\ref\TrabalhoFinalCorrigido.dll

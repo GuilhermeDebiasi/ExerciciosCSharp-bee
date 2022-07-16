@@ -1,5 +1,5 @@
 ﻿
-namespace TrabalhoFinal
+namespace TrabalhoFinalCorrido
 {
     internal class Program
     {
